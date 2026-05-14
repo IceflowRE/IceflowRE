@@ -5,31 +5,31 @@
 <details close>
 <summary>Click to show list!</summary>
 
-### [Godot Addons](https://github.com/kenyoni-software/godot-addons) । ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-GDScript-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
+### [Godot Addons](https://github.com/kenyoni-software/godot-addons) | ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-GDScript-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Pack of useful Godot additions to make your life easier.
 
 Contains multiple plugins like QRCode generation and a license manager.
 
-### [Wargaming API Client](https://github.com/IceflowRE/go-wargaming) । ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
+### [Wargaming API Client](https://github.com/IceflowRE/go-wargaming) | ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Go client for accessing Wargaming.net Public API.
 
 The API client is generated automatically based on the documentation provided by Wargaming.
 
-### [Git Commit Check](https://github.com/IceflowRE/gitcc) । ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-Go/Typescript-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
+### [Git Commit Check](https://github.com/IceflowRE/gitcc) | ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-Go/Typescript-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Check git commits for certain rules, for example the message.
 
 Available as Github Actions or CLI.
 
-### [Red Eclipse Server Docker](https://github.com/IceflowRE/redeclipse-server-docker) । ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
+### [Red Eclipse Server Docker](https://github.com/IceflowRE/redeclipse-server-docker) | ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Provides the source for an easy handling and maintaining Docker image of a Red Eclipse Server.
 
 Additional with an Go console application which can be run automatically to update the images.
 
-### [Simple Icons](https://github.com/IceflowRE/simple-icons) । ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![license](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)
+### [Simple Icons](https://github.com/IceflowRE/simple-icons) | ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![license](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)
 
 Self created monochrome icons with an enhanced visibility.
 
@@ -37,7 +37,7 @@ Self created monochrome icons with an enhanced visibility.
 
 A metadata source plugin for [Calibre](https://calibre-ebook.com/) downloading metadata from the [NASA STI Repository](https://sti.nasa.gov/).
 
-### [ircDiscordRelay](https://github.com/IceflowRE/irc-discord-relay) । ![status](https://img.shields.io/badge/status-maintained%20on%20demand-orange.svg) ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
+### [ircDiscordRelay](https://github.com/IceflowRE/irc-discord-relay) | ![status](https://img.shields.io/badge/status-maintained%20on%20demand-orange.svg) ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Message and information relay between IRC and Discord.
 </details>
@@ -47,7 +47,7 @@ Message and information relay between IRC and Discord.
 <details close>
 <summary>Click to show list!</summary>
 
-### [Inexor Vulkan Renderer](https://github.com/inexorgame/vulkan-renderer) । ![programming language](https://img.shields.io/badge/language-C++-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
+### [Inexor Vulkan Renderer](https://github.com/inexorgame/vulkan-renderer) | ![programming language](https://img.shields.io/badge/language-C++-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Inexor is an open-source project which develops a new 3D octree game engine by combining modern C++ with Vulkan API.
 
@@ -66,31 +66,31 @@ A naming convention for the keys of translatable strings. SLIs are structured, r
 <details close>
 <summary>Click to show list!</summary>
 
-### [Celaria Map Toolkit](https://github.com/IceflowRE/cmt) । ![programming language](https://img.shields.io/badge/language-Python-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
+### [Celaria Map Toolkit](https://github.com/IceflowRE/cmt) | ![programming language](https://img.shields.io/badge/language-Python-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Celaria Map Toolkit can convert different map formats of the game Celaria from one into another.
 
-### [Go DSLP](https://github.com/IceflowRE/go-dslp) । ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
+### [Go DSLP](https://github.com/IceflowRE/go-dslp) | ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 The Distributed Systems Learning Protocol (DSLP) realizes the transmission of messages over an already established transport connection, in this case TCP.
 
-### [javaPrimesSearch](https://github.com/IceflowRE/javaPrimesSearch) । ![programming language](https://img.shields.io/badge/language-Java-orange.svg) ![license](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
+### [javaPrimesSearch](https://github.com/IceflowRE/javaPrimesSearch) | ![programming language](https://img.shields.io/badge/language-Java-orange.svg) ![license](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
 
 This is my first "project" in Java, just search primes and save them.
 
-### [MP3 Monitoring](https://github.com/IceflowRE/mp3monitoring) । ![programming language](https://img.shields.io/badge/language-Python-orange.svg) ![license](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
+### [MP3 Monitoring](https://github.com/IceflowRE/mp3monitoring) | ![programming language](https://img.shields.io/badge/language-Python-orange.svg) ![license](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
 
 Monitors folders and copies new mp3s to another one.
 
 Available as CLI and gui based on Qt6.
 
-### [Universal Download](https://github.com/IceflowRE/unidown) । ![programming language](https://img.shields.io/badge/language-Python-orange.svg) ![license](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
+### [Universal Download](https://github.com/IceflowRE/unidown) | ![programming language](https://img.shields.io/badge/language-Python-orange.svg) ![license](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
 
 unidown manages downloads and will only download items again when they are newer or not downloaded yet.
 
 It is written with the target to be extended by plugins. unidown itself can only manage the produced data from 3rd party plugins.
 
-### [unidown MR Plugin](https://github.com/IceflowRE/unidown-mr_de) । ![programming language](https://img.shields.io/badge/language-Python-orange.svg) ![license](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
+### [unidown MR Plugin](https://github.com/IceflowRE/unidown-mr_de) | ![programming language](https://img.shields.io/badge/language-Python-orange.svg) ![license](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
 
 Download all available german ebooks from the MobileRead wiki
 
