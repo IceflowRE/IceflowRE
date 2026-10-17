@@ -11,19 +11,25 @@ Pack of useful Godot additions to make your life easier.
 
 Contains multiple plugins like QRCode generation and a license manager.
 
+### [XDDNS](https://github.com/IceflowRE/xddns) | ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
+
+Dynamic DNS client for keeping DNS records aligned with the current IP address of a host. Supports multiple DNS providers, resolvers and notifications and can be run as a service.
+
 ### [Wargaming API Client](https://github.com/IceflowRE/go-wargaming) | ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Go client for accessing Wargaming.net Public API.
 
 The API client is generated automatically based on the documentation provided by Wargaming.
 
-### [Git Commit Check](https://github.com/IceflowRE/gitcc) | ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-Go/Typescript-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
+### [Git Commit Check](https://github.com/IceflowRE/gitcc) | ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-Typescript-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
-Check git commits for certain rules, for example the message.
+GitHub Actions to check git commits for certain rules, for example the message.
 
-Available as Github Actions or CLI.
+### [Git Commit Check Cli](https://github.com/IceflowRE/gitcc) | ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
-### [Red Eclipse Server Docker](https://github.com/IceflowRE/redeclipse-server-docker) | ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
+CLI to check git commits for certain rules, for example the message.
+
+### [Red Eclipse Server Image](https://github.com/IceflowRE/redeclipse-server-image) | ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Provides the source for an easy handling and maintaining Docker image of a Red Eclipse Server.
 
@@ -51,11 +57,11 @@ Message and information relay between IRC and Discord.
 
 Inexor is an open-source project which develops a new 3D octree game engine by combining modern C++ with Vulkan API.
 
-### [Go MultiSplit](https://github.com/kenyoni-software/go-multisplit) | ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
+### [Go MultiSplit](https://github.com/kenyoni-software/go-multisplit) | ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![programming language](https://img.shields.io/badge/language-Go-orange.svg) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 A go/analysis-based linter that detects when multiple identifiers are declared, assigned or listed together.
 
-### [Semantic Localization Identifier](https://github.com/kenyoni-software/sli-spec) | ![license](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)
+### [Semantic Localization Identifier](https://github.com/kenyoni-software/sli-spec) | ![status](https://img.shields.io/badge/status-maintained-brightgreen.svg) ![license](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)
 
 A naming convention for the keys of translatable strings. SLIs are structured, readable keys that tell developers, translators and tooling exactly what a string is and where it belongs - just from the identifier itself.
 
